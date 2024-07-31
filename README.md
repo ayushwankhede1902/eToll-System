@@ -1,7 +1,7 @@
 # eToll-System
 
 ## Problem statement:
-Design and implement an Arduino based Toll tax collection utilizing RFID technology for payment and Infrared Sensor for vehicle detection.
+Design and implement an Arduino based Toll tax collection system utilizing RFID technology for payment and Infrared Sensor for vehicle detection.
 
 ## Components used:
 
